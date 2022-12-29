@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 10 15:16:24 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1670665584994
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1668397755773
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:pom\:3.7 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.pom. Error code 501, HTTPS Required

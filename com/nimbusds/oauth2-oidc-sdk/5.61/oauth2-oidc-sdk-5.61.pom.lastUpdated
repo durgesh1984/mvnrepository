@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 09:19:40 IST 2022
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.nimbusds\:oauth2-oidc-sdk\:pom\:5.61 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/com/nimbusds/oauth2-oidc-sdk/5.61/oauth2-oidc-sdk-5.61.pom. Error code 501, HTTPS Required
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1668397780994

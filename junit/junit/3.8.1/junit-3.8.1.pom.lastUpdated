@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 10 15:15:24 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1670665524109
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1668397756411
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:pom\:3.8.1 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom. Error code 501, HTTPS Required

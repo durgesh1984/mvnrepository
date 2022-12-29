@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Dec 10 15:15:07 IST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1670665507197
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1668397749548
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:jar\:2.6 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar. Error code 501, HTTPS Required
